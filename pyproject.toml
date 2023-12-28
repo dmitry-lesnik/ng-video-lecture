@@ -12,6 +12,7 @@ numpy = "^1.26.2"
 pandas = "^2.1.3"
 torch = "^2.1.1"
 scikit-learn = "^1.3.2"
+jupyter = "^1.0.0"
 
 [tool.poetry.group.dev.dependencies]
 matplotlib = "^3.8.2"
